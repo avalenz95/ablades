@@ -1,4 +1,4 @@
-### Hey there! I'm Audi. Check out my website to learn more about me! www.ablades.dev
+### Hey there! I'm Audi.
 
 ### Here's a snapshot of what's going on in my world:
 
