@@ -5,7 +5,7 @@
     
  - [**Portofilo Website**](github.com/ablades/portfolio) - I've mentioned it a couple of times now but my website is the other main thing (outside of classes) getting my attention. It's built using React and some third party packages. I still have some content to fill in and I also have a few cool ideas that I've been slowly trying to develop. One of those ideas is extending some github functionality onto my website by having [realtime updates of my github streak seamlessesly appear as the background of my Projects Panel.](github.com/ablades/streaktaker) Stay tuned!
     
-   - Classes and Interview Prep!
+ - **Classes and Interview Prep!**
  
     
 ### 🌱 What I'm currently learning: 
