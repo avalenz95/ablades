@@ -7,6 +7,6 @@
  
     
 ## 🌱 What I'm currently learning: 
-  - **Rust, Programming Language** - I've decided to dive into the programming language Rust as part of my Capstone. I've wanted to expand my systems programming knowledge for awhile now since one of my hobbies is tinkering with things and I'd like to expand that to embeded devices and IoT. I chose Rust in part due to all the great things I've heard about it and the fast that it's a modern take on systems programming. So far I've had a blast learning about it.
+  - **Rust, Programming Language** - I've decided to dive into the programming language Rust as part of my Capstone. I've wanted to expand my systems programming knowledge for awhile now since one of my hobbies is tinkering with things and I'd like to expand that to embeded devices and IoT. I chose Rust in part due to all the great things I've heard about it and the fact that it's a modern take on systems programming. So far I've had a blast learning about it.
   
   - **Go, Programming Language (Deeper Dive)** - I've been working with Golang for awhile now but I keep finding more and more to explore! Lately, I've been using Go to add concurrency to my project, Relevant to help with scale and speed for subreddit processing.
